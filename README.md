@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**MRizqiAbdilah/MRizqiAbdilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+**Aspiring Machine Learning Engineer & Data Scientist**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in machine learning, data science, data engineering, and data analysis. I build data workflows with Python and web applications with Laravel.
+
+</div>
+
+---
+
+### Tech Stack
+
+| Area | Tools |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB) ![PHP](https://img.shields.io/badge/PHP-18181B?style=for-the-badge&logo=php&logoColor=777BB4) ![SQL](https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1) |
+| **Data & ML** | ![NumPy](https://img.shields.io/badge/NumPy-18181B?style=for-the-badge&logo=numpy&logoColor=4DABCF) ![Pandas](https://img.shields.io/badge/Pandas-18181B?style=for-the-badge&logo=pandas&logoColor=FFFFFF) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-18181B?style=for-the-badge&logo=scikitlearn&logoColor=F7931E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwLjgiIGZpbGw9IiNmZmYiIHN0cm9rZT0iIzExNTU3YyIgc3Ryb2tlLXdpZHRoPSIxLjMiLz4gPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iNyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDBkN2RlIiBzdHJva2Utd2lkdGg9IjAuNiIvPiA8cGF0aCBkPSJNMTIgMTIgTDkgMy4yIEE5LjIgOS4yIDAgMCAxIDEzLjUgMy4xIFoiIGZpbGw9IiNmNzkyNTYiIHN0cm9rZT0iIzIyMiIgc3Ryb2tlLXdpZHRoPSIwLjQiLz4gPHBhdGggZD0iTTEyIDEyIEwxNS41IDQuMiBBOC40IDguNCAwIDAgMSAxNy44IDUuOCBaIiBmaWxsPSIjZDllZjhiIiBzdHJva2U9IiMyMjIiIHN0cm9rZS13aWR0aD0iMC40Ii8%2BIDxwYXRoIGQ9Ik0xMiAxMiBMMTkuOCAxNi44IEE5LjIgOS4yIDAgMCAxIDE3LjUgMTkuMiBaIiBmaWxsPSIjZjc5MjU2IiBzdHJva2U9IiMyMjIiIHN0cm9rZS13aWR0aD0iMC40Ii8%2BIDxwYXRoIGQ9Ik0xMiAxMiBMMTMuOCAxOS42IEE3LjggNy44IDAgMCAxIDExLjIgMTkuOCBaIiBmaWxsPSIjOTlkNTk0IiBzdHJva2U9IiMyMjIiIHN0cm9rZS13aWR0aD0iMC40Ii8%2BIDxwYXRoIGQ9Ik0xMiAxMiBMNC4yIDEzLjggQTggOCAwIDAgMSA0LjUgOS4yIFoiIGZpbGw9IiNmZWUwOGIiIHN0cm9rZT0iIzIyMiIgc3Ryb2tlLXdpZHRoPSIwLjQiLz4gPHBhdGggZD0iTTEyIDEyIEw3LjIgMTUuOCBBNiA2IDAgMCAxIDYuMiAxNC41IFoiIGZpbGw9IiM4MGNkYzEiIHN0cm9rZT0iIzIyMiIgc3Ryb2tlLXdpZHRoPSIwLjQiLz4gPHBhdGggZD0iTTEyIDEyIEwxNi4yIDExLjIgQTQuMyA0LjMgMCAwIDEgMTYuMiAxMi42IFoiIGZpbGw9IiM1ZTdjZTIiIHN0cm9rZT0iIzIyMiIgc3Ryb2tlLXdpZHRoPSIwLjQiLz4gPC9zdmc%2B) ![Seaborn](https://img.shields.io/badge/Seaborn-18181B?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BIDxkZWZzPjxjbGlwUGF0aCBpZD0iYyI%2BPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAuOCIvPjwvY2xpcFBhdGg%2BPC9kZWZzPiA8Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMC44IiBmaWxsPSIjZmZmIi8%2BIDxnIGNsaXAtcGF0aD0idXJsKCNjKSI%2BIDxwYXRoIGQ9Ik0wIDEwIFExMiAzIDI0IDEwIEwyNCAyNCBMMCAyNCBaIiBmaWxsPSIjNzZhOWI2Ii8%2BIDxwYXRoIGQ9Ik0wIDE0IFE5IDggMjQgMTYgTDI0IDI0IEwwIDI0IFoiIGZpbGw9IiM1OTc1YTQiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIwLjciLz4gPHJlY3QgeD0iMiIgeT0iMTUiIHdpZHRoPSIzIiBoZWlnaHQ9IjkiIGZpbGw9IiM0NDQ4NzYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4gPHJlY3QgeD0iNSIgeT0iMTMiIHdpZHRoPSIzIiBoZWlnaHQ9IjExIiBmaWxsPSIjNDQ0ODc2IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMC41Ii8%2BIDxyZWN0IHg9IjgiIHk9IjEyLjUiIHdpZHRoPSIzIiBoZWlnaHQ9IjExLjUiIGZpbGw9IiM0NDQ4NzYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4gPHJlY3QgeD0iMTEiIHk9IjE0IiB3aWR0aD0iMyIgaGVpZ2h0PSIxMCIgZmlsbD0iIzQ0NDg3NiIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjAuNSIvPiA8cmVjdCB4PSIxNCIgeT0iMTYuNSIgd2lkdGg9IjMiIGhlaWdodD0iNy41IiBmaWxsPSIjNDQ0ODc2IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMC41Ii8%2BIDxyZWN0IHg9IjE3IiB5PSIxOC41IiB3aWR0aD0iMyIgaGVpZ2h0PSI1LjUiIGZpbGw9IiM0NDQ4NzYiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIwLjUiLz4gPGNpcmNsZSBjeD0iOCIgY3k9IjUiIHI9IjAuOSIgZmlsbD0iIzllZDljYyIvPiA8Y2lyY2xlIGN4PSIxMSIgY3k9IjMuOCIgcj0iMSIgZmlsbD0iIzllZDljYyIvPiA8Y2lyY2xlIGN4PSIxNCIgY3k9IjQuNiIgcj0iMC45IiBmaWxsPSIjOWVkOWNjIi8%2BIDxjaXJjbGUgY3g9IjE2LjgiIGN5PSI2LjIiIHI9IjEiIGZpbGw9IiM5ZWQ5Y2MiLz4gPGNpcmNsZSBjeD0iNS44IiBjeT0iNy4yIiByPSIwLjgiIGZpbGw9IiM5ZWQ5Y2MiLz4gPGNpcmNsZSBjeD0iMTIuNSIgY3k9IjYiIHI9IjAuOCIgZmlsbD0iIzllZDljYyIvPiA8L2c%2BIDxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwLjgiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzQ0NDg3NiIgc3Ryb2tlLXdpZHRoPSIxLjMiLz4gPC9zdmc%2B) ![Jupyter](https://img.shields.io/badge/Jupyter-18181B?style=for-the-badge&logo=jupyter&logoColor=F37626) |
+| **Web Backend** | ![Laravel](https://img.shields.io/badge/Laravel-18181B?style=for-the-badge&logo=laravel&logoColor=FF2D20) ![FastAPI](https://img.shields.io/badge/FastAPI-18181B?style=for-the-badge&logo=fastapi&logoColor=009688) ![Flask](https://img.shields.io/badge/Flask-18181B?style=for-the-badge&logo=flask&logoColor=FFFFFF) |
